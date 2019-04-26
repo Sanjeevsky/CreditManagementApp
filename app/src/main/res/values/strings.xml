@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Credit Management</string>
+    <string name="enter_amount_to_transfer">Enter Amount To Transfer</string>
+    <string name="_0_0">0.0</string>
+    <string name="list_of_account_holders">List Of Account Holders</string>
+    <string name="select_user_to_transfer_amount">Select User To Transfer Amount</string>
+    <string name="user_details">User Details</string>
+    <string name="account_no">Account No:</string>
+    <string name="transfer_money">Transfer Money</string>
+</resources>
